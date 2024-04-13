@@ -1,6 +1,5 @@
 # git_1
 
-
 # Задание_1
 
 ## <https://github.com/Aid1986/git_1>
